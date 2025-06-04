@@ -14,7 +14,7 @@ AICap is a fun and interactive Flutter application that allows users to **select
 ## 📽️ Demo
 
 <p align="center">
-  <img src="images/p1.gif" alt="App Demo" width="300"/>
+  <img src="images/p1.gif"/>
 </p>
 
 ---
